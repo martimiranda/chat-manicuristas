@@ -4,7 +4,7 @@ const LISTA_RESPUESTAS = [
 <em>¿Te ayudo con algo más?</em>`,
 `<p>Tenemos un equipo maravilloso:</p> <ul> <li><strong>Carla</strong> trabaja los martes a sábados, de 10:00 a 19:00 (con descanso de 14:00 a 15:00). Y los sábados de 10:00 a 14:00.</li> <li><strong>Lucia</strong> está los martes, jueves, viernes y sábados, con horario igual al de Carla.</li> <li><strong>Laura</strong> trabaja los jueves y viernes, de 10:00 a 19:00 también con su merecido descanso de 14:00 a 15:00.</li> </ul> <p>¡Estamos listas para cuidarte y ofrecerte la mejor experiencia! 💅✨</p>
 <em>¿Te ayudo con algo más?</em>`,
-`<p>¡Genial! 😍 Puedes reservar tu cita cuando quieras desde aquí:</p> <p>👉 <a href="https://nailsbeauty.booksy.com/" target="_blank">https://jennifersorianonailsbeauty.booksy.com/</a></p> <p>Si necesitas ayuda para elegir servicio o algo más, estoy por aquí 😊</p>`,
+`<p>¡Genial! 😍 Puedes reservar tu cita cuando quieras desde aquí:</p> <p>👉 <a href="https://nailsbeauty.booksy.com/" target="_blank">https://nonailsbeauty.booksy.com/</a></p> <p>Si necesitas ayuda para elegir servicio o algo más, estoy por aquí 😊</p>`,
 
 
 ]
